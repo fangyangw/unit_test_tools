@@ -1,0 +1,4 @@
+#Barcode	 Correct	 Corrected	 Total	 Percentage(%)
+barcode1	 160015	 4553	 164568	 5.904028
+barcode2	 182300	 4596	 186896	 6.705066
+Total	 342315	 9149	 351464	 12.609095

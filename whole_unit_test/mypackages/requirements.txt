@@ -1,0 +1,4 @@
+requests
+stompest
+xlrd
+openpyxl
